@@ -1,0 +1,10 @@
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\bin\Debug\FinalScoreCalculator.exe.config
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\bin\Debug\FinalScoreCalculator.exe
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\bin\Debug\FinalScoreCalculator.pdb
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.csprojResolveAssemblyReference.cache
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.Form1.resources
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.Properties.Resources.resources
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.csproj.GenerateResource.Cache
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.exe
+C:\Users\lalam\source\repos\FinalScoreCalculator\FinalScoreCalculator\obj\Debug\FinalScoreCalculator.pdb
