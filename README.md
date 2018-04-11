@@ -1,4 +1,4 @@
-# FinalScoreCalculator
+# Final Score Calculator
 Calculates the minimum grade needed on the final to achieve the targeted grade.
 
 1. Enter your current grade percentage
